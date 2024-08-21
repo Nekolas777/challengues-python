@@ -1,0 +1,34 @@
+# Directorios de entorno de desarrollo
+.vscode/
+.idea/
+
+# Entornos virtuales
+venv/
+.env/
+__pycache__/
+
+# Archivos de configuración personal
+*.env
+
+# Archivos de compilación y binarios
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.dll
+
+# Archivos de logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.swp
+
+# Archivos de configuración del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de distribución
+dist/
+build/
+*.egg-info/
