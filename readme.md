@@ -1,6 +1,6 @@
 # EJERCICIOS - COMPLEJIDAD ALGORÍTMICA 2024-02
 
-## Reto - 01
+## [Reto - 01](./reto-01.py)
 ### Comparación de Complejidad Temporal entre Búsqueda Lineal y Búsqueda Binaria
 
 **Objetivo:**  
@@ -30,7 +30,7 @@ def busqueda_binaria(lista, objetivo):
 ```
 
 
-## Reto - 02
+## [Reto - 02](./reto-02.py)
 Un ejemplo de un algoritmo de "Búsqueda de clave" mediante fuerza bruta en Python. El
 algoritmo genera una clave de cuatro dígitos en el que un digito puede repetirse hasta
 máximo dos veces. La regla para generar la clave es: 1) se genera aleatoriamente un
@@ -42,7 +42,7 @@ cuadrado del tercer digito, si resulta mayor que 10, se aplica modulo 10. El pro
 intentar adivinar la clave generada e indicar la cantidad de intentos. Escribe la solución en
 español y detállalo. 
 
-## Reto - 03
+## [Reto - 03](./reto-03.py)
 
 Ud. ha sido contratado en una empresa de tecnología que ha desplegado una red de sensores en una ciudad para monitorear la calidad del aire. Cada sensor reporta un valor numérico que representa la calidad del aire en su ubicación. Tu tarea es optimizar la distribución de recursos para mejorar la calidad del aire en la ciudad.
 
