@@ -41,3 +41,17 @@ segundo digito, si resulta mayor que 10 se aplica modulo 10, 4) el digito 4 se f
 cuadrado del tercer digito, si resulta mayor que 10, se aplica modulo 10. El programa debe
 intentar adivinar la clave generada e indicar la cantidad de intentos. Escribe la solución en
 español y detállalo. 
+
+## Reto - 03
+
+Ud. ha sido contratado en una empresa de tecnología que ha desplegado una red de sensores en una ciudad para monitorear la calidad del aire. Cada sensor reporta un valor numérico que representa la calidad del aire en su ubicación. Tu tarea es optimizar la distribución de recursos para mejorar la calidad del aire en la ciudad.
+
+Para ello, necesitas identificar las ubicaciones críticas donde la combinación de dos sensores reporta un valor objetivo que indica una calidad del aire deficiente. Debes contar cuántos pares de sensores reportan valores que suman exactamente el valor objetivo.
+
+Desarrollar un algoritmo que, dado un arreglo de valores de sensores y un valor objetivo, cuente el número de pares de sensores cuyos valores suman exactamente el valor objetivo utilizando la técnica de divide y vencerás.
+
+Se requiere:
+- Desarrollar el algoritmo en lenguaje Python (.py o .ipynb).
+- Resolver el ejercicio utilizando la técnica divide y vencerás.
+- Hallar el número de pares que cumplen la condición dada.
+- Mostrar los elementos (pares) que cumplen la condición dada.
